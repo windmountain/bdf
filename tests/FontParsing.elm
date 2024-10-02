@@ -7,7 +7,7 @@ import Test exposing (..)
 import Expect
 
 suite =
-  describe "PDF.Font.fromString"
+  describe "BDF.Font.fromString"
     [ test "parses valid font" <|
       \_ ->
         BDF.Font.fromString TomThumb.as_string

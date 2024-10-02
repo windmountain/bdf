@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "windmountain/bdf",
-    "summary": "Parse PDF-formatted bitmap fonts and render text",
+    "summary": "Parse BDF-formatted bitmap fonts and render text",
     "license": "MIT",
     "version": "0.0.0",
     "exposed-modules": [

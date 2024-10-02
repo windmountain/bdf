@@ -1,1 +1,1 @@
-Parse PDF-formatted bitmap fonts and render text
+Parse BDF-formatted bitmap fonts and render text
